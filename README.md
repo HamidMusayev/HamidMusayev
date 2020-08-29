@@ -15,7 +15,10 @@
 [<img align="left" alt="hemidvs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hemidvs/)
 
 <br />
-### Github
+
+
+
+### Github:
 
 <details>
   <summary>:zap: Github Stats</summary>
