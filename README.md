@@ -16,6 +16,7 @@
 
 <br />
 
+
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -27,6 +28,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Hamid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
+  <img align="left" alt="Hamid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
 
 </details>
