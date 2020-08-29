@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hemidvsmusayev24 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="hemidvsmusayev@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="hemidvs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="hemidvsmusayev24 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" />](https://www.facebook.com/hemidvsmusayev24)
+[<img align="left" alt="hemidvsmusayev@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />](hemidvsmusayev@gmail.com)
+[<img align="left" alt="hemidvs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hemidvs/)
 
 <br />
 
