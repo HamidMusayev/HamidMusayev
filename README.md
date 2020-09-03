@@ -1,9 +1,10 @@
 ### Hi there, I'm Hamid Musayev - [hemidvs](hemidvsmusayev@gmail.com) 👋
 <!--
-## I'm a Flutter, Python developer!
+
 -->
 ![Gif](https://user-images.githubusercontent.com/57037068/88589670-8c77e580-d06a-11ea-8067-696c17a6a496.gif)
 
+## I'm a Flutter, Python developer!
 
 - 🔭 I’m currently working on a Tkinter Documentation!
 - 🌱 I’m currently learning everything 🤣
