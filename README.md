@@ -5,7 +5,7 @@
 ![Gif](https://user-images.githubusercontent.com/57037068/88589670-8c77e580-d06a-11ea-8067-696c17a6a496.gif)
 
 
-- 🔭 I’m currently working on a Tkinter Learning repo!
+- 🔭 I’m currently working on a Tkinter Documentation!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -21,18 +21,7 @@
 
 
 ### Github:
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="Hamid's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hemidvs&show_icons=true&hide_border=true" />
 
-</details>
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Hamid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
-
-</details>
+<img align="left" alt="Hamid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
