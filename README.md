@@ -30,4 +30,4 @@
 
 ## Visitors count
 
-[](https://profile-counter.glitch.me/{hemidvs}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{hemidvs}/count.svg)
