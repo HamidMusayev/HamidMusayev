@@ -26,3 +26,8 @@
 
 
 <img align="left" alt="Hamid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
+
+
+### Visitors count
+
+![Visitor Count](https://profile-counter.glitch.me/{hemidvs}/count.svg)
