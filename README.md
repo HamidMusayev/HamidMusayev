@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a Tkinter Documentation!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals.......
+- 🥅 2021 Goal: F1ND AND L3ARN WH1CH 1S TH3 B3ST T3CHN0L0GY F0R WR1T1NG AP1
 
 ### Connect with me:
 
