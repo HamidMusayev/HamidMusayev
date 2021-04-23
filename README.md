@@ -6,10 +6,10 @@
 
 ## I'm a .NET core & Mobile Application developer!
 
-- 🔭 I’m currently working on a Tkinter Documentation!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Creating a new Planet!
+- 🌱 I’m currently learning api
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goal: F1ND AND L3ARN WH1CH 1S TH3 B3ST T3CHN0L0GY F0R WR1T1NG AP1
+- 🥅 2021 Goal: Learn .net core and flutter native side
 
 ### Connect with me:
 
