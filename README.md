@@ -4,7 +4,7 @@
 -->
 
 
-## I'm a Flutter, Python developer!
+## I'm a .NET core & Mobile Application developer!
 
 - 🔭 I’m currently working on a Tkinter Documentation!
 - 🌱 I’m currently learning everything 🤣
