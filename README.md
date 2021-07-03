@@ -29,10 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hemidvs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Sparkline](https://stars.medv.io/hemidvs/badges.svg)](https://stars.medv.io/Naereen/badges)
-
 
 
 
