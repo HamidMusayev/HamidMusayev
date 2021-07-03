@@ -27,9 +27,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hemidvs&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemids&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img align="left" alt="Hamid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
 
 ![Visitor Count](https://profile-counter.glitch.me/{hemidvs}/count.svg)
