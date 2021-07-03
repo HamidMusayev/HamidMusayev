@@ -22,7 +22,6 @@
 
 
 ### Github:
-  <img align="left" alt="Hamid's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hemidvs&show_icons=true&hide_border=true" />
 
 
 <img align="left" alt="Hamid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
