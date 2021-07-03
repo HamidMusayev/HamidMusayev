@@ -23,7 +23,8 @@
 
 ### Github:
 
-[![Stargazers over time](https://starchart.cc/hemidvs/badges.svg)](https://starchart.cc/hemidvs/badges)
+[![Only 32 Kb](https://badge-size.herokuapp.com/hemidvs/StrapDown.js/master/strapdown.min.js)](https://github.com/hemidvs/StrapDown.js/blob/master/strapdown.min.js)
+
 
 
 <img align="left" alt="Hamid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
