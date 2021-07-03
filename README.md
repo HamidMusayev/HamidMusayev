@@ -23,7 +23,7 @@
 
 ### Github:
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hemidvs&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hemidvs&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
