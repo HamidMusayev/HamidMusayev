@@ -25,7 +25,7 @@
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hemidvs&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hemidvs&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img align="left" alt="Hamid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&hide=html,java,objective-c" />
