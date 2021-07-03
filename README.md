@@ -31,6 +31,9 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hemidvs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Sparkline](https://stars.medv.io/hemidvs/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{hemidvs}/count.svg)
