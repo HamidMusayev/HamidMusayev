@@ -23,13 +23,12 @@
 
 ### Github:
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hemidvs&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![github trophy](https://github-profile-trophy.vercel.app/?username=hemidvs&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hemidvs)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=hemidvs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
   [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
   [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
@@ -37,9 +36,6 @@
   [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 
   [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-</div>
-
-
 
 
 
