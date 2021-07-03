@@ -23,7 +23,8 @@
 
 ### Github:
 
-[![Only 32 Kb](https://badge-size.herokuapp.com/hemidvs/StrapDown.js/master/strapdown.min.js)](https://github.com/hemidvs/StrapDown.js/blob/master/strapdown.min.js)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hemidvs&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
