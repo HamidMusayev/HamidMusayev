@@ -7,7 +7,6 @@
 ## I'm a .NET core & Mobile Application developer!
 
 - 🔭 I’m currently working on Creating a new Planet!
-- 🌱 I’m currently learning api
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goal: Learn .net core and flutter native side
 
