@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;My+name+is+Hamid+Musayev;I+am+software+engineer+from+Azerbaijan&multiline=true&font=monospace&height=160&size=30&duration=2500)](https://git.io/typing-svg)
 
-
-
-## I'm a full Stack software engineer!
-
 - 🔭 I’m currently working on Creating a new Planet!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goal: Learn .net core and flutter native side
