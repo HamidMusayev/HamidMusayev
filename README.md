@@ -6,12 +6,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidvs24&show_icons=true&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Hamidvs24&color=36BCF7)
+
 
 ### 💻 Software and tools
 
 <p>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+    ![](https://komarev.com/ghpvc/?username=Hamidvs24&color=36BCF7)
 </p>
 
