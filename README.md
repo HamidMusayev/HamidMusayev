@@ -5,5 +5,5 @@
 [<img align="left" alt="hemidvs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hemidvs/)
 
 
-![](https://komarev.com/ghpvc/?username=Hamidvs24&color=green)
+![](https://komarev.com/ghpvc/?username=Hamidvs24&color=36BCF7)
 
