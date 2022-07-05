@@ -1,6 +1,6 @@
 ### Hi there, I'm Hamid Musayev - [hemidvs](hemidvsmusayev@gmail.com) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;My+name+is+Hamid+Musayev;I+am+software+engineer+from+Azerbaijan&multiline=true&font=poppins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;My+name+is+Hamid+Musayev;I+am+software+engineer+from+Azerbaijan&multiline=true&font=poppins&height=120)](https://git.io/typing-svg)
 
 
 
