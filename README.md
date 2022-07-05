@@ -7,6 +7,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Hamidvs24&color=36BCF7)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidvs24)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 💻 Software and tools
 
 <p>
