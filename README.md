@@ -4,7 +4,7 @@
 -->
 
 
-## I'm a .NET core & Mobile Application developer!
+## I'm a full Stack software engineer!
 
 - 🔭 I’m currently working on Creating a new Planet!
 - 👯 I’m looking to collaborate with other content creators
@@ -28,15 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidvs24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
-
-  [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
-
-  [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
-
-  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-
-
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{hemidvs}/count.svg)
