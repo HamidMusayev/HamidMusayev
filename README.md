@@ -22,11 +22,11 @@
 
 ### Github:
 
-[![github trophy](https://github-profile-trophy.vercel.app/?username=hemidvs&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![github trophy](https://github-profile-trophy.vercel.app/?username=Hamidvs24&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=hemidvs)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Hamidvs24)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemidvs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidvs24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
