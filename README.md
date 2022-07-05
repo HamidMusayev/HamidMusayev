@@ -7,4 +7,4 @@
 <br />
 
 
-![Visitor Count](https://profile-counter.glitch.me/{hemidvs}/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username)
