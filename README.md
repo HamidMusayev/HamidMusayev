@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;My+name+is+Hamid+Musayev;I+am+software+engineer+from+Azerbaijan&multiline=true&font=poppins&width=500&height=200&size=40&center=true&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;My+name+is+Hamid+Musayev;I+am+software+engineer+from+Azerbaijan&multiline=true&font=poppins&height=200&size=40)](https://git.io/typing-svg)
 
 
 
