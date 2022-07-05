@@ -4,7 +4,5 @@
 [<img align="left" alt="hemidvsmusayev@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />](hemidvsmusayev@gmail.com)
 [<img align="left" alt="hemidvs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hemidvs/)
 
-<br />
 
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Hamidvs24&color=green)
