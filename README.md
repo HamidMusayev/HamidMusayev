@@ -2,7 +2,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hamidvs24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamidvs24&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamidvs24&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=Hamidvs24&color=36BCF7)
