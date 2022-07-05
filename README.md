@@ -13,16 +13,4 @@
 <br />
 
 
-
-### Github:
-
-[![github trophy](https://github-profile-trophy.vercel.app/?username=Hamidvs24&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=Hamidvs24)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidvs24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-
-
 ![Visitor Count](https://profile-counter.glitch.me/{hemidvs}/count.svg)
