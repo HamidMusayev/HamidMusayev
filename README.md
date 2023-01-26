@@ -2,9 +2,9 @@
 
 <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hamidvs24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamidvs24&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamidMusayev&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidvs24&show_icons=true&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamidMusayev&show_icons=true&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
