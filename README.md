@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HamidMusayev&theme=github-dark-blue&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
-[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamidMusayev&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamidMusayev&show_icons=true&hide_border=true&theme=github_dark_)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
